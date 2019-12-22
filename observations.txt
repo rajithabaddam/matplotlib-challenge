@@ -1,0 +1,5 @@
+Here are my 3 observations:
+
+1) Over period of time (In case of our analysis 45 days is period)the tumor volume increases to 65(mm3) in case of 3 drugs except for drug "Capomulin"
+2) Noticed samething % Tumor volume change is -19% for drug "Capomulin" for the other 3 drugs('Infubinol','Placebo','Ketapril') the percent of tumor volume change is closer to 50%. The volum changes we indicated tumor growth as red and tumor reduction as green.
+3)Mice survival rate is around 85% incase of drug "Capomulin" , observed the survival rate for the drug 'Infubinol' is dropped to 35%.
